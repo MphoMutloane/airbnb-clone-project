@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Mpho Mutloane",
+      "email": "mphomutloane@april.biz",
+      "phone": "1-770-736-8031"
+    },
+    {
+      "id": "2",
+      "name": "Patrick Shahidi",
+      "email": "patrick@zaio.biz",
+      "phone": "5-770-746-8031"
+    }
+  ],
+  "bookings": [
+    {
+      "listingId": "1",
+      "startDate": "2024-07-20",
+      "endDate": "2024-07-22",
+      "userId": "1"
+    }
+  ],
+  "listings": [
+    {
+      "id": "1",
+      "bath_num": "3",
+      "bed_num": "4",
+      "zip": "23456",
+      "address": "Shomolu street",
+      "city": "Ikeja",
+      "street": "Agege",
+      "price": "2000",
+      "sq_ft": "4.2",
+      "email": "test@test.com",
+      "userId": "2"
+    }
+  ]
+}

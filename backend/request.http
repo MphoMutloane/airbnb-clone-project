@@ -1,0 +1,48 @@
+#### Get Users
+GET http://localhost:3000/users
+Content-Type: application/json
+
+###
+
+#### Get A SINGLE USER
+GET http://localhost:3000/users/1
+Content-Type: application/json
+
+###
+
+### Sign In
+POST http://localhost:3000/users/login
+Content-Type: application/json
+
+{
+    "email": "patience@mail.com",
+    "password": "1234567"
+}
+
+###
+
+### Get Bookings
+GET http://localhost:3000/bookings
+Content-Type: application/json
+
+###
+
+### Get Bookings FOR A SINGLE USER
+GET http://localhost:3000/bookings?userId=2
+Content-Type: application/json
+
+
+###
+
+### Get Listings
+GET http://localhost:3000/listings
+Content-Type: application/json
+
+###
+# POST http://localhost:3000/posts 
+# content-type: application/json
+
+# {
+#     "title": "airbnb clone",
+#     "author": "mpho"
+# }

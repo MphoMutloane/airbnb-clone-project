@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Mpho Mutloane",
+      "email": "mphomutloane@april.biz",
+      "phone": "1-770-736-8031"
+    },
+    {
+      "id": "2",
+      "name": "Patrick Shahidi",
+      "email": "patrick@zaio.biz",
+      "phone": "5-770-746-8031"
+    },
+    {
+      "email": "olievier@mail.com",
+      "password": "$2a$10$ba/mk5S4XuDgyLMC.jnEJObhJj6TjwzbB3wnkHX9YtwVfyuUbSGg6",
+      "id": "rfOEWr9"
+    },
+    {
+      "email": "patient@mail.com",
+      "password": "$2a$10$l3WzGCfzqXL/NWYGiaeB/ODcTlOn0Hs/ITrXZt8o9PiP/sdEtIT9S",
+      "id": "CtFkh3W"
+    },
+    {
+      "email": "damaers@mail.com",
+      "password": "$2a$10$MqpwmwYQhOh0ih8qX9e2YORzISRsxjIWS8mb482zyS97fgPiCd5nC",
+      "id": "vEcfbsI"
+    },
+    {
+      "email": "patience@mail.com",
+      "password": "$2a$10$oTy2VFcEO5JQ/55a5ErT9egMLHIkYzxO3ITmkCdyFPoBfeamUTEiO",
+      "id": "5Nf3699"
+    }
+  ],
+  "bookings": [
+    {
+      "listingId": "1",
+      "startDate": "2024-07-20",
+      "endDate": "2024-07-22",
+      "userId": "1"
+    }
+  ],
+  "listings": [
+    {
+      "id": "1",
+      "img":"https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyNjMyMzc5Mzc2MTc3OTEzMg%3D%3D/original/01819c16-43a1-4aee-9957-9edce6eb8e16.png?im_w=1440&im_q=highq",
+      "title":"Online Experiences",
+      "description":"Unique activities we can do together, led by a world of hosts.",
+      "bath_num": "3",
+      "bed_num": "4",
+      "zip": "23456",
+      "address": "Shomolu street",
+      "city": "Ikeja",
+      "street": "Agege",
+      "price": "R2000/night",
+      "sq_ft": "4.2",
+      "email": "test@test.com",
+      "userId": "2"
+    },
+    {
+      "id": "2",
+      "img":"https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyNTQ0NTEyMzEwMTI3NDg1MQ%3D%3D/original/bd73f0f8-9057-4bbc-ad70-1db13eb5c03f.png?im_w=1440&im_q=highq",
+      "title":"Unique Stays",
+      "description":"Space that are more than just a place to sleep.",
+      "bath_num": "3",
+      "bed_num": "4",
+      "zip": "23456",
+      "address": "Shomolu street",
+      "city": "Ikeja",
+      "street": "Agege",
+      "price": "R1100/night",
+      "sq_ft": "4.2",
+      "email": "test@test.com",
+      "userId": "2"
+    }
+  ]
+}
